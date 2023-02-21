@@ -5,7 +5,11 @@
 */ 
 
 html {
-    background-color: rgb(42, 45, 46);
+    background-color: rgb(21, 23, 23);
+}
+
+body {
+    background-color: rgb(21, 23, 23);
 }
 
 h1 {
